@@ -1,0 +1,19 @@
+{
+    "images": [
+      { "title": "Image 1", "src": "../../src/assets/lenka.jpeg" },
+      { "title": "Image 2", "src": "../../src/assets/red.jpeg" },
+      { "title": "Image 3", "src": "../../src/assets/interior1.jpeg" },
+      { "title": "Image 4", "src": "../../src/assets/dea.jpeg" },
+      { "title": "Image 5", "src": "../../src/assets/interior2.jpeg" },
+      { "title": "Image 6", "src": "../../src/assets/nini.jpeg" },
+      { "title": "Image 7", "src": "../../src/assets/kitri.jpeg" },
+      { "title": "Image 8", "src": "../../src/assets/interior3.jpeg" },
+      { "title": "Image 9", "src": "../../src/assets/bichi.jpeg" },
+      { "title": "Image 10", "src": "../../src/assets/blueyellow.jpeg" },
+      { "title": "Image 11", "src": "../../src/assets/coctail.jpeg" },
+      { "title": "Image 12", "src": "../../src/assets/anna.jpeg" }
+    ]
+  }
+  
+
+

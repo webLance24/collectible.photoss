@@ -1,0 +1,178 @@
+{
+    "photos": [
+
+        {
+        "category": "nature",
+        "images": [
+          {
+            
+            "src": "./src/nature/airplane.jpeg"
+          },
+          {
+            
+            "src": "./src/nature/alidanino.jpeg"
+          },
+          {
+            
+            "src": "./src/nature/cat.jpg"
+          },
+          {
+           
+            "src": "./src/nature/delphini.jpg"
+          },
+          {
+           
+            "src": "./src/nature/sabachka.jpg"
+          },
+          
+          {
+           
+            "src": "./src/nature/fish2.jpeg"
+          },
+          {
+           
+            "src": "./src/nature/fish.jpeg"
+          },
+          {
+           
+            "src": "./src/nature/frani.jpg"
+          },
+          {
+           
+            "src": "./src/nature/gemi.jpeg"
+          },
+          {
+           
+            "src": "./src/nature/meezove.jpeg"
+          },
+         
+          {
+           
+            "src": "./src/nature/xidi.jpeg"
+          }
+        ]
+      },
+
+
+      {
+        "category": "people",
+        "images": [
+          {
+            "src": "./src/people/anna.jpeg"
+          },
+          {
+            "src": "./src/people/babu.jpg"
+          },
+          {
+            "src": "./src/people/babu2.jpg"
+          },
+          {
+            "src": "./src/people/bichi.jpeg"
+          },
+          {
+            "src": "./src/people/ckvili.jpg"
+          },
+          {
+            "src": "./src/people/couple.jpeg"
+          },
+          {
+            "src": "./src/people/dea.jpeg"
+          },
+          {
+            "src": "./src/people/image0011.png"
+          },
+          {
+            "src": "./src/people/lenka.jpeg"
+          },
+          {
+            "src": "./src/people/mamao.jpg"
+          },
+          {
+            "src": "./src/people/nini.jpeg"
+          },
+          {
+            "src": "./src/people/velosipedi.jpg"
+          }
+        ]
+      },
+
+      {
+        "category": "food",
+        "images": [
+          {
+            "src": "./src/food/blueyellow.jpeg"
+          },
+          {
+            "src": "./src/food/cezari.jpeg"
+          },
+          {
+            "src": "./src/food/cheescake.jpeg"
+          },
+          {
+            "src": "./src/food/coctail.jpeg"
+          },
+          {
+            "src": "./src/food/Food.png"
+          },
+          {
+            "src": "./src/food/keku.jpeg"
+          },
+          {
+            "src": "./src/food/kitri.jpeg"
+          },
+          {
+            "src": "./src/food/kvercxi.jpeg"
+          },
+          {
+            "src": "./src/food/orange.png"
+          },
+          {
+            "src": "./src/food/red.jpeg"
+          },
+          {
+            "src": "./src/food/salati.jpeg"
+          },
+          {
+            "src": "./src/food/shampanuri.jpeg"
+          },
+          {
+            "src": "./src/food/sufra.jpeg"
+          },
+          {
+            "src": "./src/food/tiramisu.jpeg"
+          },
+          {
+            "src": "./src/food/xachapuri.jpeg"
+          },
+          {
+            "src": "./src/food/xorci.jpeg"
+          }
+          
+        ]
+      },
+      
+      {
+        "category": "interior",
+        "images": [
+          {
+            "src": "./src/interior/interior1.jpeg"
+          },
+          {
+            "src": "./src/interior/interior2.jpg"
+          },
+          {
+            "src": "./src/interior/interior3.jpeg"
+          },
+          {
+            "src": "./src/interior/interior4.jpeg"
+          },
+          {
+            "src": "./src/interior/interior5.jpg"
+          },
+          {
+            "src": "./src/interior/interior5.png"
+          }
+        ]
+      }
+    ]
+  }
