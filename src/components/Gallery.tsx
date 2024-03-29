@@ -1,4 +1,4 @@
-import circle from "../assets-2/icons8-up-arrow-64.png"
+import circle from "../../public/assets-2/icons8-up-arrow-64.png"
 import  { useContext, useEffect, useState } from "react";
 import Header from "./Header";
 // import MobileHeader from "./MobileHeader";

@@ -1,4 +1,4 @@
-import Logo from "../assets/logo2.jpeg"
+import Logo from "../../public/assets/logo2.jpeg"
 import { useContext } from "react"
 import { MyContext } from "./Context"
 

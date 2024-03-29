@@ -6,49 +6,49 @@
         "images": [
           {
             
-            "src": "./src/nature/airplane.jpeg"
+            "src": "./public/nature/airplane.jpeg"
           },
           {
             
-            "src": "./src/nature/alidanino.jpeg"
+            "src": "./public/nature/alidanino.jpeg"
           },
           {
             
-            "src": "./src/nature/cat.jpg"
+            "src": "./public/nature/cat.jpg"
           },
           {
            
-            "src": "./src/nature/delphini.jpg"
+            "src": "./public/nature/delphini.jpg"
           },
           {
            
-            "src": "./src/nature/sabachka.jpg"
+            "src": "./public/nature/sabachka.jpg"
           },
           
           {
            
-            "src": "./src/nature/fish2.jpeg"
+            "src": "./public/nature/fish2.jpeg"
           },
           {
            
-            "src": "./src/nature/fish.jpeg"
+            "src": "./public/nature/fish.jpeg"
           },
           {
            
-            "src": "./src/nature/frani.jpg"
+            "src": "./public/nature/frani.jpg"
           },
           {
            
-            "src": "./src/nature/gemi.jpeg"
+            "src": "./public/nature/gemi.jpeg"
           },
           {
            
-            "src": "./src/nature/meezove.jpeg"
+            "src": "./public/nature/meezove.jpeg"
           },
          
           {
            
-            "src": "./src/nature/xidi.jpeg"
+            "src": "./public/nature/xidi.jpeg"
           }
         ]
       },
@@ -58,40 +58,40 @@
         "category": "people",
         "images": [
           {
-            "src": "./src/people/anna.jpeg"
+            "src": "./public/people/anna.jpeg"
           },
           {
-            "src": "./src/people/babu.jpg"
+            "src": "./public/people/babu.jpg"
           },
           {
-            "src": "./src/people/babu2.jpg"
+            "src": "./public/people/babu2.jpg"
           },
           {
-            "src": "./src/people/bichi.jpeg"
+            "src": "./public/people/bichi.jpeg"
           },
           {
-            "src": "./src/people/ckvili.jpg"
+            "src": "./public/people/ckvili.jpg"
           },
           {
-            "src": "./src/people/couple.jpeg"
+            "src": "./public/people/couple.jpeg"
           },
           {
-            "src": "./src/people/dea.jpeg"
+            "src": "./public/people/dea.jpeg"
           },
           {
-            "src": "./src/people/image0011.png"
+            "src": "./public/people/image0011.png"
           },
           {
-            "src": "./src/people/lenka.jpeg"
+            "src": "./public/people/lenka.jpeg"
           },
           {
-            "src": "./src/people/mamao.jpg"
+            "src": "./public/people/mamao.jpg"
           },
           {
-            "src": "./src/people/nini.jpeg"
+            "src": "./public/people/nini.jpeg"
           },
           {
-            "src": "./src/people/velosipedi.jpg"
+            "src": "./public/people/velosipedi.jpg"
           }
         ]
       },
@@ -100,52 +100,52 @@
         "category": "food",
         "images": [
           {
-            "src": "./src/food/blueyellow.jpeg"
+            "src": "./public/food/blueyellow.jpeg"
           },
           {
-            "src": "./src/food/cezari.jpeg"
+            "src": "./public/food/cezari.jpeg"
           },
           {
-            "src": "./src/food/cheescake.jpeg"
+            "src": "./public/food/cheescake.jpeg"
           },
           {
-            "src": "./src/food/coctail.jpeg"
+            "src": "./public/food/coctail.jpeg"
           },
           {
-            "src": "./src/food/Food.png"
+            "src": "./public/food/Food.png"
           },
           {
-            "src": "./src/food/keku.jpeg"
+            "src": "./public/food/keku.jpeg"
           },
           {
-            "src": "./src/food/kitri.jpeg"
+            "src": "./public/food/kitri.jpeg"
           },
           {
-            "src": "./src/food/kvercxi.jpeg"
+            "src": "./public/food/kvercxi.jpeg"
           },
           {
-            "src": "./src/food/orange.png"
+            "src": "./public/food/orange.png"
           },
           {
-            "src": "./src/food/red.jpeg"
+            "src": "./public/food/red.jpeg"
           },
           {
-            "src": "./src/food/salati.jpeg"
+            "src": "./public/food/salati.jpeg"
           },
           {
-            "src": "./src/food/shampanuri.jpeg"
+            "src": "./public/food/shampanuri.jpeg"
           },
           {
-            "src": "./src/food/sufra.jpeg"
+            "src": "./public/food/sufra.jpeg"
           },
           {
-            "src": "./src/food/tiramisu.jpeg"
+            "src": "./public/food/tiramisu.jpeg"
           },
           {
-            "src": "./src/food/xachapuri.jpeg"
+            "src": "./public/food/xachapuri.jpeg"
           },
           {
-            "src": "./src/food/xorci.jpeg"
+            "src": "./public/food/xorci.jpeg"
           }
           
         ]
@@ -155,22 +155,22 @@
         "category": "interior",
         "images": [
           {
-            "src": "./src/interior/interior1.jpeg"
+            "src": "./public/interior/interior1.jpeg"
           },
           {
-            "src": "./src/interior/interior2.jpg"
+            "src": "./public/interior/interior2.jpg"
           },
           {
-            "src": "./src/interior/interior3.jpeg"
+            "src": "./public/interior/interior3.jpeg"
           },
           {
-            "src": "./src/interior/interior4.jpeg"
+            "src": "./public/interior/interior4.jpeg"
           },
           {
-            "src": "./src/interior/interior5.jpg"
+            "src": "./public/interior/interior5.jpg"
           },
           {
-            "src": "./src/interior/interior5.png"
+            "src": "./public/interior/interior5.png"
           }
         ]
       }

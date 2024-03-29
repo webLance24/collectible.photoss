@@ -1,5 +1,5 @@
 import Header from "./Header"
-import icon from "../assets-2/icons8-camera-50.png"
+import icon from "../../public/assets-2/icons8-camera-50.png"
 import { useNavigate } from "react-router-dom";
 import { MyContext } from "./Context";
 import { useContext } from "react";

@@ -1,6 +1,6 @@
 import Header from "./Header"
-import Anom from "../assets-2/anom.jpeg"
-import Arrow from "../assets-2/angle-right (1).png"
+import Anom from "../../public/assets-2/anom.jpeg"
+import Arrow from "../../public/assets-2/angle-right (1).png"
 import { useNavigate } from "react-router-dom";
 import { MyContext } from "./Context";
 import { useContext } from "react";
