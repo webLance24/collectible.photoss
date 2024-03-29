@@ -5,7 +5,7 @@ import { MyContext } from './Context';
 
 function Hamburger() {
   const context = useContext(MyContext);
-  const {setPage, page, menu, setMenu, setHidden }: any = context;
+  const {setPage, page, menu }: any = context;
 console.log(menu);
   return (
     <>
