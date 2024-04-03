@@ -21,7 +21,7 @@ export default function Home() {
 <>
     <Header/>
     <MobileHeader/>
-    <div className="px-[30px]">
+    <div className="px-[20px]">
         <div className="flex justify-center items-center text-center">
       <h1 className="text-slate-50 text-[40px]">Collectible Photos</h1>
       </div>

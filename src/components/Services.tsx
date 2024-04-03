@@ -38,7 +38,7 @@ context;
       {/* Service Card Section */}
       <div className="flex justify-center items-center ">
       <div className="con relative flex justify-center items-center flex-wrap p-[60px 0] gap-[60px]">
-        <div className="boxxx1 --clr:#89ec5b">
+        <div className="boxxx1">
           <div className="content">
             <div className="icon"><img src={icon} /></div>
               <div className="text">
