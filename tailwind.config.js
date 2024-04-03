@@ -8,6 +8,7 @@ export default {
     extend: {
       screen: {
         md: "700px",
+        lg: "800px",
       }
     },
   },

@@ -74,7 +74,7 @@ const Gallery = () => {
       </div>
       {/* Category selection */}
 
-      <div className="flex justify-center items-center pt-[40px] pb-[30px] px-[10px] gap-[30px] flex-wrap ">
+      <div className="rame flex justify-center items-center pt-[40px] pb-[30px] px-[20px] gap-[30px] flex-wrap">
         {categories.map((category, index) => (
           // filter for desktop
           <div className="center" key={index}>

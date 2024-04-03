@@ -412,4 +412,8 @@ transition: 0.5s ease-in-out;
     .container{
         display: none;
     }
+    .rame{
+        gap: 0px
+    }
+
  }
