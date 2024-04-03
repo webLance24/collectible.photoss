@@ -397,6 +397,19 @@ transition: 0.5s ease-in-out;
     .link-2{
         display: block;
     }
+ }
 
- 
+
+ /* Show on screens wider than or equal to 800px */
+
+ @media screen and (min-width: 830px) {
+    .mobile-filter{
+        display: none;
+    }
+ }
+
+ @media screen and (max-width: 830px) {
+    .container{
+        display: none;
+    }
  }

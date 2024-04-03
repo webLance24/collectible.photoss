@@ -24,6 +24,7 @@ const Gallery = () => {
   ];
   const [filterCategory, setFilterCategory] = useState<string>("");
 
+  
   // Filter images based on selected category
   const filteredImages = filterCategory
     ? data.photos.find((category) => category.category === filterCategory)?.images || []
@@ -72,12 +73,22 @@ const Gallery = () => {
         </div>
       </div>
       {/* Category selection */}
+
       <div className="flex justify-center items-center pt-[40px] pb-[30px] px-[10px] gap-[30px] flex-wrap ">
         {categories.map((category, index) => (
+          // filter for desktop
           <div className="center" key={index}>
             <div className="container" onClick={() => setFilterCategory(category.category)}>
             <img src={`../assets-3/${category.title}.png`} className="h-[100px] cursor-pointer" alt={category.title} />
               <h2>{category.title}</h2>            
+            </div>
+            {/* filter for Mobile version */}
+            <div className="mobile-filter flex justify-center items-center">
+              <button className="text-[white] text-[14px] font-normal px-[15px] pt-[3px] pb-[3px] rounded-[5px] hover:bg-[#2CBC85] duration-300 ease-in-out cursor-pointer" onClick={() => setFilterCategory(category.category)} style={
+                  category.category === filterCategory
+                  ? {backgroundColor: "#2CBC85"}
+                  :{}
+              }>{category.title}</button>
             </div>
           </div>
         ))}
