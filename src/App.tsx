@@ -14,6 +14,7 @@ function App() {
   const [scrolled, setScrolled] = useState<boolean>(false);
   const [menu, setMenu] = useState<boolean>(false);
   const [hidden, setHidden] = useState<boolean>(false);
+
   
 
   console.log(categorie);

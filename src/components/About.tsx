@@ -12,7 +12,7 @@ function About() {
 
 const navigate = useNavigate();
 const context = useContext(MyContext);
-  const { setPage }: any =
+  const { setPage, }: any =
     context;
 
     
@@ -30,6 +30,7 @@ const context = useContext(MyContext);
       </p>
         <button onClick={() =>(
           navigate("/contact"), setPage("Contact")
+          
         )} className="text-[#e6e4e4] bg-[#27A776] mt-[20px] px-[40px] py-[12px] rounded-md tracking-wider hover:bg-[#2CBC85] hover:text-[#ffffff] duration-300">AVAILIBLE FOR HIRE</button>
       </div>
      </div>
