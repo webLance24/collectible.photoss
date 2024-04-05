@@ -1,4 +1,4 @@
-import Logo from "../../public/assets/logo2.jpeg"
+import Logo from "../../public/assets/colll.jpeg"
 import { useContext, useEffect, useRef } from "react"
 import { MyContext } from "./Context"
 import Hamburger from "./Hamburger"

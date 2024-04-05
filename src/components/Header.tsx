@@ -1,4 +1,4 @@
-import Logo from "../../public/assets/logo2.jpeg"
+import Logo from "../../public/assets/colll.jpeg"
 import Facebook from "../../public/assets-2/Facebook.svg.png"
 import Instagram from "../../public/assets-2/Instagram.svg.png"
 import Linkedin from "../../public/assets-2/Linkedin.svg.png"
