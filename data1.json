@@ -21,12 +21,13 @@
       "images": [
         { "src": "/people/anna.jpeg" },
         { "src": "/people/babu.jpg" },
+        { "src": "/people/keku2.jpeg" },
         { "src": "/people/babu2.jpg" },
         { "src": "/people/bichi.jpeg" },
         { "src": "/people/ckvili.jpg" },
         { "src": "/people/couple.jpeg" },
-        { "src": "/people/dea.jpeg" },
         { "src": "/people/image0011.png" },
+        { "src": "/people/dea.jpeg" },
         { "src": "/people/lenka.jpeg" },
         { "src": "/people/mamao.jpg" },
         { "src": "/people/nini.jpeg" },
@@ -38,12 +39,13 @@
       "images": [
         { "src": "/food/blueyellow.jpeg" },
         { "src": "/food/cezari.jpeg" },
-        { "src": "/food/cheescake.jpeg" },
         { "src": "/food/coctail.jpeg" },
         { "src": "/food/Food.png" },
         { "src": "/food/keku.jpeg" },
+        { "src": "/food/keqsi.jpeg" },
         { "src": "/food/kitri.jpeg" },
         { "src": "/food/kvercxi.jpeg" },
+        { "src": "/food/cheescake.jpeg" },
         { "src": "/food/orange.png" },
         { "src": "/food/red.jpeg" },
         { "src": "/food/salati.jpeg" },
@@ -51,7 +53,8 @@
         { "src": "/food/sufra.jpeg" },
         { "src": "/food/tiramisu.jpeg" },
         { "src": "/food/xachapuri.jpeg" },
-        { "src": "/food/xorci.jpeg" }
+        { "src": "/food/xorci.jpeg" },
+        { "src": "/food/torti.jpeg" }
       ]
     },
     {
