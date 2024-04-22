@@ -24,7 +24,7 @@ const categories = [
   { category: "Fb", title:"Facebook", text: "Collectible.photoss", src: Fb, href: "https://www.facebook.com/profile.php?id=100094137796067" },
   { category: "Insta", title:"Instagram", text: "Collectible.photoss", src: Insta, href: "https://www.instagram.com/collectible.photoss/"},
   { category: "In", title:"Linked In", text:"Ana Mamulashvili", src: In, href: "https://www.linkedin.com/in/ana-mamulashvili-565745253/" },
-  { category: "Phone", title:"Number", text: "995+ 599 177 602", src: Phone },
+  { category: "Phone", title:"Number", text: "+995 599 177 612", src: Phone },
   { category: "gmail", title:"Gmail", text: "ana.mamulashvili2000@gmail.com", src: Gmail },
 ]
 
