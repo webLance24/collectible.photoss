@@ -14,7 +14,7 @@ export default function Home() {
   const { setPage }: any =
     context;
 
-    
+  
 
 
   return (
@@ -27,7 +27,7 @@ export default function Home() {
       </div>
       <div className="flex justify-center items-center text-center">
       <div>
-      <p className="text-[#808080]">♡ Step into the enchanting world of Collectible Photos, where every click unveils a tale. <br/> I'm Ano, your visual storyteller. Together, let's seize moments, <br/> craft memories, and revel in the splendor of life's wonders. ♡
+      <p className="text-[#808080]">♡ step into  the enchanting world of Collectible Photos, where every click unveils a tale. <br/> I'm Ano, your visual storyteller. Together, let's seize moments, <br/> craft memories, and revel in the splendor of life's wonders. ♡
       </p>
         <button onClick={() => (
             navigate("/contact"), setPage("Contact")
