@@ -111,7 +111,7 @@ const sendEmail = (e: React.FormEvent<HTMLFormElement>) => {
  </section>
 </div>
 <div className="flex justify-center items-center py-[20px] text-[20px]">
-        <h2 className="text-[white]">Made by <a href="#" className="text-[#2CBC85]">@webLance</a></h2>
+        <h2 className="text-[white]">Made by <a href="https://www.weblance.ge/" target="_blank" className="text-[#2CBC85]">@webLance</a></h2>
       </div>
 
   </div>

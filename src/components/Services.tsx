@@ -79,7 +79,7 @@ context;
 
           {/* Service Card Section */}
         <div className="flex justify-center items-center py-[30px] text-[20px] mt-[10px]">
-          <h1 className="text-[white]">Made by <a href="#" className="text-[#2CBC85]">@webLance</a></h1>
+          <h1 className="text-[white]">Made by <a href="https://www.weblance.ge/" target="_blank" className="text-[#2CBC85]">@webLance</a></h1>
         </div>
       
     </div>

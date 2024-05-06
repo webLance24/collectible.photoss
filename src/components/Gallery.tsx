@@ -107,7 +107,7 @@ const Gallery = () => {
         ))}
       </div>
       <div className="flex items-center justify-center py-[20px] text-[20px]">
-        <h2 className="text-[white]">Made by <a href="#" className="text-[#2CBC85]">@webLance</a></h2>
+        <h2 className="text-[white]">Made by <a href="https://www.weblance.ge/" target="_blank" className="text-[#2CBC85]">@webLance</a></h2>
       </div>
        {/* for desktop scroll up arrow */}
        <div className="link-1">
