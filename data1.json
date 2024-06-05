@@ -5,7 +5,6 @@
       "images": [
         { "src": "/nature/airplane.jpeg" },
         { "src": "/nature/alidanino.jpeg" },
-        { "src": "/nature/delphini.jpg" },
         { "src": "/nature/fish2.jpeg" },
         { "src": "/nature/fish.jpeg" },
         { "src": "/nature/gemi.jpeg" },
@@ -17,7 +16,6 @@
       "category": "people",
       "images": [
         { "src": "/people/anna.jpeg" },
-        { "src": "/people/babu.jpg" },
         { "src": "/people/keku2.jpeg" },
         { "src": "/people/babu2.jpg" },
         { "src": "/people/bichi.jpeg" },
@@ -26,7 +24,6 @@
         { "src": "/people/image0011.png" },
         { "src": "/people/dea.jpeg" },
         { "src": "/people/lenka.jpeg" },
-        { "src": "/people/mamao.jpg" },
         { "src": "/people/nini.jpeg" },
         { "src": "/people/velosipedi.jpg" }
       ]
@@ -60,9 +57,7 @@
         { "src": "/interior/interior1.jpeg" },
         { "src": "/interior/interior2.jpg" },
         { "src": "/interior/interior3.jpeg" },
-        { "src": "/interior/interior4.jpeg" },
-        { "src": "/interior/interior5.jpg" },
-        { "src": "/interior/Interior5.png" }
+        { "src": "/interior/interior4.jpeg" }
       ]
     }
   ]

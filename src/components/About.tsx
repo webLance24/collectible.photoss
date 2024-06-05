@@ -71,7 +71,7 @@ const context = useContext(MyContext);
         </div>
         <div className="flex">
         <img src={Arrow} />
-        <h3 className="text-[white]"> <strong>Degree :</strong> Master</h3>
+        <h3 className="text-[white]"> <strong>Degree :</strong> Bachelors</h3>
         </div>
         </div>
         </div>
