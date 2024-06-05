@@ -31,7 +31,7 @@ export default function Home() {
       </p>
         <button onClick={() => (
             navigate("/contact"), setPage("Contact")
-        )} className="text-[#e6e4e4] bg-[#27A776] mt-[20px] px-[40px] py-[12px] rounded-md tracking-wider hover:bg-[#2CBC85] hover:text-[#ffffff] duration-300">AVAILIBLE FOR HIRE</button>
+        )} className="text-[#e6e4e4] bg-[#27A776] mt-[20px] px-[40px] py-[12px] rounded-md tracking-wider hover:bg-[#2CBC85] hover:text-[#ffffff] duration-300">AVAILABLE FOR HIRE</button>
       </div>
       </div>
       <div className="flex justify-center items-center pt-[40px] gap-[20px] flex-wrap">
